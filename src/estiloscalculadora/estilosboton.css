@@ -1,0 +1,19 @@
+.Botones-General{
+    height: 99px;
+    width: 95px;
+    justify-content: center;
+    display: flex;
+    flex:1 1;
+    align-items: center;
+    font-weight: bold;
+    font-size: 35px;
+    background-color: chartreuse;
+    border-radius: 8px;
+    border: 2px solid rgb(65, 128, 170);
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .operador{
+    background-color: crimson;
+  }
